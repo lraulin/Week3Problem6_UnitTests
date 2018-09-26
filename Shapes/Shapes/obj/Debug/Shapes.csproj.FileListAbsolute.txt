@@ -1,0 +1,5 @@
+C:\Users\Lee\source\repos\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\Lee\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Lee\source\repos\Bank\Bank\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Lee\source\repos\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\Lee\source\repos\Bank\Bank\obj\Debug\Bank.pdb
